@@ -1,3 +1,4 @@
 #This is a test.
 name = input("Name: ")
-print(name)
+age = input("Age: ")
+print(name, age)
